@@ -14,7 +14,7 @@ pytest-mock = "*"
 pytest-selenium = "*"
 
 [packages]
-dynaconf = { extras = ["yaml"], version = "*" }
+dynaconf = "*"
 gunicorn = "*"
 psycopg2-binary = "*"
 
